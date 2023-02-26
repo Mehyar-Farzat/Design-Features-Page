@@ -1,0 +1,46 @@
+
+.container{
+    max-width: 1200px;
+}
+
+.mydiv-icon{
+
+border-radius: 32px;
+background-color: white;
+font-size: 16px;
+font-weight: 700;
+display: inline;
+padding: 7px 12px;
+
+}
+
+.icon-text{
+    color: #7C4FE0;
+}
+
+.fa-regular{
+    color: #7C4FE0;
+}
+
+.text-p{
+
+    font-size: 17px;
+}
+
+.img-premium{
+
+    width: 15%;
+  height: auto;
+}
+
+.card-b{
+
+    border-radius: 30px;
+    overflow:hidden;
+    transition: all .1s;
+}
+
+.card-b:hover{
+
+    transform:translateY(-10px);
+}
