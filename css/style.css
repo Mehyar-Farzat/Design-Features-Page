@@ -37,10 +37,11 @@ padding: 7px 12px;
 
     border-radius: 30px;
     overflow:hidden;
-    transition: all .1s;
+    transition: 0.7s ease;
+    
 }
 
 .card-b:hover{
 
-    transform:translateY(-10px);
+ transform: scale(1.1);
 }
